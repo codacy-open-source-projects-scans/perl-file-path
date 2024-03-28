@@ -1,7 +1,7 @@
 # perl-file-path - master branch
 
-This repository contains frozen state of the repository.
+This repository contains the frozen state of the repository.
 Its history is cleared. It is used only for static code
 analysis with Codacy.
 
-Commit Time: 1710996888
+Commit Time: 1711609651
